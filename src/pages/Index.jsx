@@ -1,5 +1,4 @@
-import { Container, Text, VStack, IconButton, useToast } from "@chakra-ui/react";
-import { useNavigate } from "react-router-dom";
+import { Container, Text, VStack, Button, IconButton, useToast } from "@chakra-ui/react";
 import { FaUnlock } from "react-icons/fa";
 
 const Index = () => {
